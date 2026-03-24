@@ -1,0 +1,6 @@
+{"level":"warn","message":"Token expired","timestamp":"2026-02-22T16:56:14.942Z","traceId":"d2fe0b8f-383d-4b5a-814e-90170de4db25","type":"AUTH_ERROR"}
+{"level":"warn","message":"Token expired","timestamp":"2026-02-22T16:56:14.954Z","traceId":"fc11c404-0c73-41bb-af9a-52ee3de1f16a","type":"AUTH_ERROR"}
+{"level":"warn","message":"Token expired","timestamp":"2026-02-22T17:12:29.089Z","traceId":"dd344365-1303-4a1c-a4f6-f391b48d9560","type":"AUTH_ERROR"}
+{"level":"warn","message":"Token expired","timestamp":"2026-02-22T17:12:29.100Z","traceId":"407f8ab9-2d39-46eb-9d5c-ceff3f5d0fc0","type":"AUTH_ERROR"}
+{"level":"warn","message":"Token expired","timestamp":"2026-02-22T17:30:05.799Z","traceId":"a00fcae7-adcc-457c-bb76-dc4bb61c67f5","type":"AUTH_ERROR"}
+{"level":"warn","message":"Token expired","timestamp":"2026-02-22T17:30:05.849Z","traceId":"9575c3a5-c905-4f69-94f4-a78557e57c8d","type":"AUTH_ERROR"}

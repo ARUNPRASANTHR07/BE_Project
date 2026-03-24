@@ -1,0 +1,5 @@
+{"level":"warn","message":{"ip":"::1","type":"LOGIN_FAILED","username":"admin"},"timestamp":"2026-02-19T05:15:56.293Z","traceId":"9c906b78-a583-4800-9b28-b73a87ea1218"}
+{"level":"warn","message":{"ip":"::1","type":"LOGIN_FAILED","username":"admin"},"timestamp":"2026-02-19T06:41:22.107Z","traceId":"4f0f55c1-a5ca-4e24-9976-f60d79490fe6"}
+{"level":"warn","message":{"ip":"::1","type":"LOGIN_FAILED","username":"admin"},"timestamp":"2026-02-19T10:24:59.957Z","traceId":"70992ec9-3ba5-4172-862e-47facb38172f"}
+{"level":"warn","message":{"ip":"::1","type":"LOGIN_FAILED","username":"admin"},"timestamp":"2026-02-19T11:31:18.142Z","traceId":"83e937e5-fc64-4671-9b3d-351d3a7d86ef"}
+{"level":"warn","message":{"ip":"::1","type":"LOGIN_FAILED","username":"admin"},"timestamp":"2026-02-19T11:31:21.178Z","traceId":"21e66367-7587-4fa0-a377-0c430b7a4429"}

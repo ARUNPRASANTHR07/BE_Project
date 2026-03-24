@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "D:\\RSL_Training\\Demo\\WebApp\\BackendtsEncrypt\\logs\\2026-03-01\\user-ramcouser\\.9727eebb80acd921ad6d97d2a114b975da68c3e1-audit.json",
+    "files": [
+        {
+            "date": 1772363717952,
+            "name": "D:\\RSL_Training\\Demo\\WebApp\\BackendtsEncrypt\\logs\\2026-03-01\\user-ramcouser\\requests.log.2026-03-01",
+            "hash": "f3dafdba6e243e5b3e6c366aa60203c56ce825c919946f0623dbac22aa9d2a66"
+        }
+    ],
+    "hashType": "sha256"
+}
