@@ -2,9 +2,9 @@ import sql, { ConnectionPool } from "mssql";
 
 const config = {
   user: "sa",
-  password: "basereports@dm!n123*",
-  server: "172.16.1.122",
-  database: "scmdb",
+  password: "",
+  server: "",
+  database: "",
   options: {
     encrypt: true,
     trustServerCertificate: true,
